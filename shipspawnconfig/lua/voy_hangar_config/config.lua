@@ -2,6 +2,8 @@ AddCSLuaFile()
 
 ANG_Ship_Spawn = {}
 
+ANG_GM_ShipSpawn_Config_Version = 2
+
 ANG_Ship_Spawn_Model = "models/mossman.mdl"
 
 ANG_Ship_Spawn_Jobs = { -- Jobs that can open the menu and request vehicles.
