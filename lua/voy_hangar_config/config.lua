@@ -2,7 +2,7 @@ AddCSLuaFile()
 
 ANG_Ship_Spawn = {}
 
-ANG_GM_ShipSpawn_Config_Version = 8
+ANG_GM_ShipSpawn_Config_Version = 10
 
 ANG_Ship_Spawn_Model = "models/mossman.mdl"
 
